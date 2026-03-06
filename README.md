@@ -1,9 +1,18 @@
-## Sou Azineu 👋
+# Olá, eu sou o Azineu! 👋
 
-- 🌱 Graduado em Sistemas para Internet 
-- 🔭 Trabalho atualmente como Estagiário em desenvolvimento Web
-<div>
-  <a href=>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=azineu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azineu&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+Desenvolvedor Full Stack com formação em **Sistemas para Internet** e **Engenharia Civil**. Atualmente, foco no ecossistema JavaScript para criar soluções robustas e escaláveis.
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS.
+- **Backend:** Node.js, Supabase, PostgreSQL.
+- **CRM & Marketing:** Salesforce Marketing Cloud.
+- **Outros:** Git, Metodologias Ágeis, Resolução de Problemas Complexos.
+
+### 🚀 Experiência Profissional
+Atualmente atuo no desenvolvimento de aplicações Web integrando interfaces modernas com serviços de backend e automação de marketing via Salesforce. Devido a contratos de confidencialidade, a maioria dos meus commits recentes reflete contribuições em repositórios privados.
+
+### 📊 Estatísticas do GitHub
+
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=azineu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azineu&layout=compact&theme=tokyonight)
