@@ -14,5 +14,6 @@ Atualmente atuo no desenvolvimento de aplicações Web integrando interfaces mod
 
 ### 📊 Estatísticas do GitHub
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=azineu&show_icons=true&theme=tokyonight)
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=azineu&show_icons=true&theme=tokyonight&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azineu&layout=compact&theme=tokyonight)
