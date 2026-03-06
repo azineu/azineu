@@ -1,7 +1,7 @@
 ## Sou Azineu 👋
 
-- 🌱 Graduando em Sistemas para Internet 
-- 🔭 Traabalho atualmente como Estagiário em desenvolvimento Web
+- 🌱 Graduado em Sistemas para Internet 
+- 🔭 Trabalho atualmente como Estagiário em desenvolvimento Web
 <div>
   <a href=>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=azineu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
